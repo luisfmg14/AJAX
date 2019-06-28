@@ -12,6 +12,9 @@
 		<label for="correo">Correo</label>
 		<input type="text" name="correo" id="correo">
 
+		<label for="telefono">Telefono</label>
+		<input type="number" name="telefono" id="telefono">
+
 		<input type="button" name="enviar" id="enviar" class="estilos" value="Enviar">
 		
 	</form>
